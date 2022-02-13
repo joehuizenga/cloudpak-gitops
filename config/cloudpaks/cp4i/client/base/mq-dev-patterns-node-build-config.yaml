@@ -20,7 +20,7 @@ spec:
   source:
     contextDir: Node.js
     git:
-      uri: https://github.com/nastacio/mq-dev-patterns.git
+      uri: https://github.com/joehuizenga/mq-dev-patterns.git
     type: Git
   strategy:
     dockerStrategy:
