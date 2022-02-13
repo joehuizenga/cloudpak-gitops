@@ -1,4 +1,0 @@
----
-resources:
-  - sbo-account-role-binding.yaml
-  - sbo-operator.yaml
