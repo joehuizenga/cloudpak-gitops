@@ -1,5 +1,6 @@
 ---
 resources:
+  - namespace-dev.yaml
   - mq-dev-patterns-jms-build-config.yaml
   - mq-dev-patterns-jms-deployment.yaml
   - mq-dev-patterns-node-build-config.yaml
