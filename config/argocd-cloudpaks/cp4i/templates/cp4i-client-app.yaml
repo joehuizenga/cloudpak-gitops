@@ -20,7 +20,7 @@ spec:
       kind: Application
   project: default
   source:
-    path: config/cloudpaks/cp4i/client/overlays
+    path: config/cloudpaks/cp4i/client/base
     repoURL: https://github.com/joehuizenga/cloudpak-gitops.git
   syncPolicy: {}
 status:
