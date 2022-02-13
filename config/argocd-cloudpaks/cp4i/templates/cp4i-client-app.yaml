@@ -9,7 +9,7 @@ metadata:
     argocd.argoproj.io/sync-wave: "300"
 spec:
   destination:
-    namespace: dev
+    namespace: ibm-cloudpaks
     server: https://kubernetes.default.svc
   ignoreDifferences:
     - group: argoproj.io

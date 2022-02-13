@@ -6,7 +6,7 @@ metadata:
   annotations:
     argocd.argoproj.io/sync-wave: "300"
   name: mq-dev-patterns-jms
-  namespace: dev
+  namespace: ibm-cloudpaks
 spec:
   runPolicy: Serial
   triggers:

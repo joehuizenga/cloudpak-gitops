@@ -6,7 +6,7 @@ metadata:
   annotations:
     argocd.argoproj.io/sync-wave: "300"
   name: node
-  namespace: dev
+  namespace: ibm-cloudpaks
 spec:
   lookupPolicy:
     local: false
