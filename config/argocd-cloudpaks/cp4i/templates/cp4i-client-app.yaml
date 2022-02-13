@@ -21,7 +21,7 @@ spec:
   project: default
   source:
     path: config/cloudpaks/cp4i/client/overlays
-    repoURL: https://github.com/IBM/cloudpak-gitops.git
+    repoURL: https://github.com/joehuizenga/cloudpak-gitops.git
   syncPolicy: {}
 status:
   health: {}
